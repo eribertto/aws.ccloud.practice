@@ -1,6 +1,10 @@
-✔ install aws cli for linux per this link https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html @done(22-01-04 19:47)
 ☐ next session resume to section 19: IAM MFA hands on exercise
-☐ todo: practice creating IAM user and group as described in section 15
+✔ install aws cli for linux per this link https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html @done(22-01-04 19:47)
+✔ todo: practice creating IAM user and group as described in section 15 @done(22-01-04 20:29)
+	note: username is bert-normal, password = BHNji90()
+	this is normal user but belong to admin group
+	next session login using this user account not eribertt (the root account)
+	note the csv file downloaded in Downloads folder used during the initial user login
 ✔ next session resume to Section 4 IAM. @done(22-01-02 20:37)
 ✔ take quiz at end of Section 3. Scored 8/13 with 1 question skipped @done(21-12-31 21:31)
 ✔ downloaded the code and slides as stated in section 6 @done(21-12-31 20:02)
