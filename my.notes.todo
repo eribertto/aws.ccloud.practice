@@ -1,4 +1,27 @@
-☐ next session resume to section 19: IAM MFA hands on exercise
+jan 6/22
+
+chapter 20: do hands-on practice setup of MFA for root account
+
+go to security settings>mfa>manage mfa>use virtual mfa
+select android>authy (install first in your phone) then open the authy in phone and scan qr code shown in the webpage then wait for the code to sms in your phone (2 times code to input in the mfa fields in the webpage). once done logout of user account and relogin this time using mfa for authentication.
+
+in the event your phone is lost or snatched or God knows what then you can no longer login to your AWS account so decide if to use this feature or not.
+
+how can users access AWS?
+1. through AWS management console (passwd + MFA)
+2. using AWS command line CLI (protected by access keys)
+3. using AWS software devel kit SDK (protected by access keys)
+
+note: access keys are secret just like a password. so protect it like its your last breath.
+
+aws admin erimendz at gamil
+passawd BB dotdot midi pound sixsix
+
+note the sign-in account of normal user for every day usage. this is separate from the root account for admin usage.
+user: bert-normal
+passawd: BHNji90()
+https://bertmendez-normal-yuser.signin.aws.amazon.com/console
+✔ (optional): next session resume to section 19: IAM MFA hands on exercise @done(22-01-06 20:42)
 ✔ install aws cli for linux per this link https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html @done(22-01-04 19:47)
 ✔ todo: practice creating IAM user and group as described in section 15 @done(22-01-04 20:29)
 	note: username is bert-normal, password = BHNji90()
