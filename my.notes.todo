@@ -1,4 +1,6 @@
 
+✔ take note i cannot access the public IP of the instance for whatever reason even after stopping and starting the instance. @done(22-01-08 21:37)
+✔ do handson create EC2 instance. downloaded the new key pair RSA to pop_OS box and uploaded a copy in GDrive. @done(22-01-08 21:12)
 ✔ success creating budget and related alerts in AWS bert-normal account. @done(22-01-08 20:33)
 ✔ next session: resume to section 5 EC2 Elastic Compute Cloud. @done(22-01-07 19:04)
 ✔ pass section 4 quiz all things IAM. @done(22-01-07 19:05)
