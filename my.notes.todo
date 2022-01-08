@@ -1,6 +1,8 @@
 
 ✔ next session resume to EC2 Instance types @done(22-01-08 21:38)
-✔ take note i cannot access the public IP of the instance for whatever reason even after stopping and starting the instance. @done(22-01-08 21:37)
+☐ take note i cannot access the public IP of the instance for whatever reason even after stopping and starting the instance.
+	update: i may need to redo the exercise from scratch again e.g. delete the instance and redo it all together.
+	update: course code zip is downloaded in pop-os online-cert folder and note the script i copied in the demo is wrong. the script is a shell script and i am missing the shebang entry @done(22-01-08 22:03)
 ✔ do handson create EC2 instance. downloaded the new key pair RSA to pop_OS box and uploaded a copy in GDrive. @done(22-01-08 21:12)
 ✔ success creating budget and related alerts in AWS bert-normal account. @done(22-01-08 20:33)
 ✔ next session: resume to section 5 EC2 Elastic Compute Cloud. @done(22-01-07 19:04)
