@@ -1,4 +1,5 @@
 
+✔ next session resume to EC2 Instance types @done(22-01-08 21:38)
 ✔ take note i cannot access the public IP of the instance for whatever reason even after stopping and starting the instance. @done(22-01-08 21:37)
 ✔ do handson create EC2 instance. downloaded the new key pair RSA to pop_OS box and uploaded a copy in GDrive. @done(22-01-08 21:12)
 ✔ success creating budget and related alerts in AWS bert-normal account. @done(22-01-08 20:33)
