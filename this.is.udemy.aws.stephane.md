@@ -1,0 +1,1 @@
+NOte: this repo is for the Udemy course AWS CCP by Stephane Maarek
